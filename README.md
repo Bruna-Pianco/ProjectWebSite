@@ -21,7 +21,7 @@ Onde tivemos que desenvolver o site da nossa empresa (fictícia). :computer:
 
 #### Este projeto também conta com o trabalho da colega de sala:
 
-#### Helen Silva
+[Helen Silva](https://github.com/helensilv4)
 
 Algumas imagens do site:
 
